@@ -36,6 +36,34 @@ Game / Event -> Structured Data -> Analysis -> Editorial Classification -> Scrip
 
 Pinche Chess demonstrates how a live event can become autonomous editorial media through PincheTulum.
 
+
+## Agentic Cinema Technology Scope
+
+For this **Agentic Cinema: The Blockbuster Hackathon** submission, the AI and partner technologies used by the project are intentionally scoped to the technologies associated with this hackathon.
+
+### AI / Partner Technologies
+
+- **Google Gemini** — AI reasoning and generation
+- **Google Cloud** — cloud infrastructure and services
+- **IBM Bob** — partner technology / development integration
+- **OpenClaw** — agent and workflow orchestration
+
+### Application & Infrastructure Technologies
+
+- Flutter
+- Node.js
+- WebSockets
+- Python
+- FFmpeg
+- Linux
+- HumHub
+- Mastodon
+- Matrix
+- Codemagic
+
+> Other AI models or providers that may have been explored elsewhere in the broader history of The AgroStore ecosystem are **not part of the Agentic Cinema runtime or technology claim for this submission**.
+
+
 ## Repository Structure
 
 - `pinche-tulum/` — agentic editorial and cinematic media pipeline
