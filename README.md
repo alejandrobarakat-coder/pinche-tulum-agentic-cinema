@@ -88,7 +88,14 @@ Pinned dependencies:
 
 Built for the Agentic Cinema hackathon.
 
-## Author
+## Author & Creator
 
-Alejandro Barakat
-The AgroStore LLC
+**Rodrigo Domenzain**
+
+Founder, CEO & Developer — The AgroStore LLC
+
+### Editorial / On-Screen Identity
+
+**Alejandro Barakat**
+
+Public pseudonym, presenter and editorial identity of Rodrigo Domenzain.
