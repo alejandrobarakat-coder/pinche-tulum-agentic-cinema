@@ -1,0 +1,32 @@
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.jks
+*.keystore
+key.properties
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Build / generated output
+build/
+dist/
+coverage/
+pinche-chess/backend/data/
+pinche-chess/public/downloads/
+pinche-tulum/public/
+pinche-tulum/storage/render/
+
+# Local backups
+*.before-*
+*.bak
+*.backup

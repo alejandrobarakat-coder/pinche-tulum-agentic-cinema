@@ -1,0 +1,15 @@
+{
+  "name": "pinche-chess-agentic-cinema",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Pinche Chess runtime for the Pinche Tulum Agentic Cinema submission.",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "check": "node --check backend/server.js && node --check backend/post-game-pipeline.js && node --check backend/publish-pinchetulum.js && node --check backend/build-publication-video.js"
+  },
+  "dependencies": {
+    "chess.js": "1.4.0",
+    "ws": "8.21.3"
+  }
+}
